@@ -9,7 +9,7 @@
      - 👀 Solid and Clean Code.
      
 - 👀 Sorting algorithm.  
-     - 👀 Counting sort.
+     - 👀 Countingsort.
      - 👀 Quicksort.
      - 👀 Shellsort.
      - 👀 Heapsort.
