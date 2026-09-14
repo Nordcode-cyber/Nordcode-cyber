@@ -1,11 +1,41 @@
-- 👋 Hi, I’m @Nordcode-cyber
-- 👀 I’m interested in 
-- 🌱 I’m currently learning books
-- 💞️ I’m looking to collaborate on project
-- 📫 How to search info 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Programador, me gusta Algoritmos, estructuras de datos.
+- Sin Programación Orientado a objetos, no existiría backend, System Design, frameworks, Arquitecturas.
 
+- 👀 I’m interested in Objet Oriented Programming . 
+     - 👀 Abstraction.
+     - 👀 Polimorphism.
+     - 👀 Inheritance.
+     - 👀 encapsulation.
+     - 👀 Solid and Clean Code.
+     
+- 👀 Sorting algorithm.  
+     - 👀 Counting sort.
+     - 👀 Quicksort.
+     - 👀 Shellsort.
+     - 👀 Heapsort.
+     - 👀 Recursion.
+     
+- 👀 Lineal Data Structures.
+     - 👀 Arrays.
+     - 👀 ArraysList.
+     - 👀 Stacks & Queues.
+     - 👀 linked list Double.
+     - 👀 Linked list Reverse.
+     - 👀 Linked list Sort.
+     - 👀 Hashmap & Function Hash
+- 👀 No Lineal Data Structures. 
+     - 👀 Heap.
+     - 👀 Binary Tree.
+     - 👀 Graph.
+- 👀 I’m interested in Programming. 
+     - 👀 Node.js
+     - 👀 Java
+     - 👀 C/C++
+     - 👀 Python
+- 👀 I’m I rarely deal with Web Programming Frontend. 
+     - 👀 Typescript
+     - 👀 Javascript
+     - 👀 Boostrap
 <!---
 Nordcode-cyber/Nordcode-cyber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
