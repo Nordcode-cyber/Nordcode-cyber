@@ -22,8 +22,8 @@
      - 👀 linked list Double.
      - 👀 Linked list Reverse.
      - 👀 Linked list Sort.
-     - 👀 Hashmap & Function Hash
-- 👀 No Lineal Data Structures. 
+- 👀 No Lineal Data Structures.
+     - 👀 Hashtable & Function Hash
      - 👀 Heap.
      - 👀 Binary Tree.
      - 👀 Graph.
